@@ -1,7 +1,11 @@
 # CheatBreaker-Blocker
-*****READ ME*****
 
 A little connection blocker for CheatBreaker.
-Open it as admin
 
-Credits to JudgeMe_ / Back
+
+**READ ME**
+
+
+**Run it as admin**
+
+**Credits to JudgeMe_ / Back
